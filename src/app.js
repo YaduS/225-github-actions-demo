@@ -17,3 +17,6 @@ try {
 } catch (err) {}
 
 exports.dayOfTheWeek = dayOfTheWeek;
+
+s
+// adding new change
